@@ -1,5 +1,6 @@
 {
     "name": "A is for Alligator, B is for Bear.",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
